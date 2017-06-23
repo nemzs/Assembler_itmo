@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1498241550 source:c:\studying\asm\memcpy\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<string>
+	<algorithm>
+	<queue>
+	<map>
+	<deque>
+	<set>
+	<vector>
+	<cstdlib>
+	<bitset>
+	<ctime>
+	<fstream>
+	<cstdint>
+	<stddef.h>
+	<emmintrin.h>
+
